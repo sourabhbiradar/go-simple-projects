@@ -1,0 +1,14 @@
+{
+  "file": "/Users/squareroot38/desktop/gin/logrus/main.go:51",
+  "func": "main.logLevel",
+  "level": "warning",
+  "msg": "warn",
+  "time": "2024-03-30T01:01:44+05:30"
+}
+{
+  "file": "/Users/squareroot38/desktop/gin/logrus/main.go:52",
+  "func": "main.logLevel",
+  "level": "error",
+  "msg": "err",
+  "time": "2024-03-30T01:01:44+05:30"
+}

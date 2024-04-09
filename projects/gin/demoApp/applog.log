@@ -1,0 +1,2 @@
+{"file":"/Users/squareroot38/desktop/gin/demoApp/logger/logger.go:92","func":"demoApp/logger.InfoLn","level":"info","msg":"logger initialized successfully","time":"2024-03-31 02:34:52"}
+{"file":"/Users/squareroot38/desktop/gin/demoApp/logger/logger.go:92","func":"demoApp/logger.InfoLn","level":"info","msg":"started router initialization","time":"2024-03-31 02:34:52"}
